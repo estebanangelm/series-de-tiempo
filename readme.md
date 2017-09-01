@@ -1,4 +1,4 @@
-#Pronostico de series de tiempo
+# Pronóstico de series de tiempo
 (Notas de Clase)
 
 Juan David Velásquez
